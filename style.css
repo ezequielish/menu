@@ -1,0 +1,17 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+#contenedor{
+	height:100vh;
+	width:100%;
+	border:solid red 1px;
+	display:grid;
+	grid-template-columns: 15vw 85vw;
+}
+
+summary{
+outline:none;
+cursor:pointer;
+}
